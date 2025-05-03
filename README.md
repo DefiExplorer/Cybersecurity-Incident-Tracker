@@ -1,6 +1,6 @@
 # Cybersecurity Incident Tracker
 
-Aspiring Data Analyst project to parse, analyze, and query cybersecurity incident logs.
+Project to parse, analyze, and query cybersecurity incident logs.
 
 ## Purpose
 Tracks cybersecurity incidents from a log file, analyzes them with NumPy, and stores/queries them in SQLite. Built to practice data parsing, numerical analysis, and database skills for cybersecurity applications.
